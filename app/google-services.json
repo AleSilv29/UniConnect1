@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346511166697",
+    "project_id": "uniconnectlogin",
+    "storage_bucket": "uniconnectlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346511166697:android:783931e28bb21f0fc4f478",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaCKPj7eJcALxtz_-5HN_S5bvzpG--7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
